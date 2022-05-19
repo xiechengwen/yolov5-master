@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1174.tif</filename>
+	<path>D:\xianweijing\样本\image\1174.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1120</xmin>
+			<ymin>98</ymin>
+			<xmax>2224</xmax>
+			<ymax>1101</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>989</xmin>
+			<ymin>1101</ymin>
+			<xmax>2401</xmax>
+			<ymax>1938</ymax>
+		</bndbox>
+	</object>
+</annotation>

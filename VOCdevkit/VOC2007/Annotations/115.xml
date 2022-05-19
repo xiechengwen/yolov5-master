@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>115.tif</filename>
+	<path>D:\xianweijing\样本\image\115.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>112</xmin>
+			<ymin>383</ymin>
+			<xmax>674</xmax>
+			<ymax>1349</ymax>
+		</bndbox>
+	</object>
+</annotation>

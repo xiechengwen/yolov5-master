@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>841.tif</filename>
+	<path>D:\xianweijing\样本\image\841.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>645</xmin>
+			<ymin>617</ymin>
+			<xmax>1765</xmax>
+			<ymax>1464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1324</xmin>
+			<ymin>1638</ymin>
+			<xmax>2081</xmax>
+			<ymax>1910</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2349</xmin>
+			<ymin>439</ymin>
+			<xmax>2592</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+</annotation>

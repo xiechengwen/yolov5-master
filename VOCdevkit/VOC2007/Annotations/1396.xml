@@ -1,0 +1,62 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1396.tif</filename>
+	<path>D:\xianweijing\样本\image\1396.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>318</xmin>
+			<ymin>303</ymin>
+			<xmax>971</xmax>
+			<ymax>1557</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1106</xmin>
+			<ymin>1145</ymin>
+			<xmax>1964</xmax>
+			<ymax>1594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>901</xmin>
+			<ymin>1669</ymin>
+			<xmax>1710</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>152</ymin>
+			<xmax>2280</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+</annotation>

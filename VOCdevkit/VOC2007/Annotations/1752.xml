@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1752.tif</filename>
+	<path>D:\xianweijing\样本\image\1752.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>706</xmin>
+			<ymin>989</ymin>
+			<xmax>1782</xmax>
+			<ymax>1817</ymax>
+		</bndbox>
+	</object>
+</annotation>

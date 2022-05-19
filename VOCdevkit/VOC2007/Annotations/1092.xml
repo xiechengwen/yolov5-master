@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1092.tif</filename>
+	<path>D:\xianweijing\样本\image\1092.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>346</ymin>
+			<xmax>1707</xmax>
+			<ymax>1464</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1208</xmin>
+			<ymin>761</ymin>
+			<xmax>2298</xmax>
+			<ymax>1636</ymax>
+		</bndbox>
+	</object>
+</annotation>

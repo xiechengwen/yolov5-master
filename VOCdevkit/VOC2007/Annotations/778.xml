@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>778.tif</filename>
+	<path>D:\xianweijing\样本\image\778.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1810</xmin>
+			<ymin>75</ymin>
+			<xmax>2539</xmax>
+			<ymax>1316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>578</ymin>
+			<xmax>1810</xmax>
+			<ymax>1925</ymax>
+		</bndbox>
+	</object>
+</annotation>

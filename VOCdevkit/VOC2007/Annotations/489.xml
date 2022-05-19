@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>489.tif</filename>
+	<path>D:\xianweijing\样本\image\489.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>80</xmin>
+			<ymin>605</ymin>
+			<xmax>1814</xmax>
+			<ymax>1183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1556</xmin>
+			<ymin>983</ymin>
+			<xmax>2592</xmax>
+			<ymax>1435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>77</ymin>
+			<xmax>2592</xmax>
+			<ymax>1899</ymax>
+		</bndbox>
+	</object>
+</annotation>

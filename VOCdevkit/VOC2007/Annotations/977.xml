@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>977.tif</filename>
+	<path>D:\xianweijing\样本\image\977.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>479</xmin>
+			<ymin>494</ymin>
+			<xmax>1185</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2055</xmin>
+			<ymin>881</ymin>
+			<xmax>2566</xmax>
+			<ymax>1541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>33</xmin>
+			<ymin>161</ymin>
+			<xmax>2517</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+</annotation>

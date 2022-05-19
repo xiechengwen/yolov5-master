@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06</folder>
+	<filename>3226.tif</filename>
+	<path>E:\ZNXWJ\样本\2022\01\06\3226.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>694</ymin>
+			<xmax>1324</xmax>
+			<ymax>1211</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>685</xmin>
+			<ymin>577</ymin>
+			<xmax>2132</xmax>
+			<ymax>1229</ymax>
+		</bndbox>
+	</object>
+</annotation>

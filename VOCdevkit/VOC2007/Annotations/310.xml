@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>310.tif</filename>
+	<path>D:\xianweijing\样本\image\310.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1292</xmin>
+			<ymin>597</ymin>
+			<xmax>1756</xmax>
+			<ymax>1341</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2084</xmin>
+			<ymin>319</ymin>
+			<xmax>2592</xmax>
+			<ymax>1049</ymax>
+		</bndbox>
+	</object>
+</annotation>

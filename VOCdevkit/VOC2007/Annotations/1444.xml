@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1444.tif</filename>
+	<path>D:\xianweijing\样本\image\1444.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vessels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>994</xmin>
+			<ymin>768</ymin>
+			<xmax>2176</xmax>
+			<ymax>1664</ymax>
+		</bndbox>
+	</object>
+</annotation>

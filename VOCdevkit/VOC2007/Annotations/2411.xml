@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06</folder>
+	<filename>2411.tif</filename>
+	<path>E:\ZNXWJ\样本\2022\01\06\2411.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>625</ymin>
+			<xmax>853</xmax>
+			<ymax>1242</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1276</xmin>
+			<ymin>1052</ymin>
+			<xmax>1945</xmax>
+			<ymax>1719</ymax>
+		</bndbox>
+	</object>
+</annotation>

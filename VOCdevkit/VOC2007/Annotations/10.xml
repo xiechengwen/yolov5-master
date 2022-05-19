@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>10.tif</filename>
+	<path>D:\xianweijing\样本\image\10.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vessels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>180</xmin>
+			<ymin>331</ymin>
+			<xmax>1130</xmax>
+			<ymax>1113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1440</xmin>
+			<ymin>551</ymin>
+			<xmax>2028</xmax>
+			<ymax>1325</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>130</xmin>
+			<ymin>1235</ymin>
+			<xmax>990</xmax>
+			<ymax>1763</ymax>
+		</bndbox>
+	</object>
+</annotation>

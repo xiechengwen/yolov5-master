@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1912.tif</filename>
+	<path>D:\xianweijing\样本\image\1912.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1041</xmin>
+			<ymin>926</ymin>
+			<xmax>2580</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>182</ymin>
+			<xmax>2087</xmax>
+			<ymax>1380</ymax>
+		</bndbox>
+	</object>
+</annotation>

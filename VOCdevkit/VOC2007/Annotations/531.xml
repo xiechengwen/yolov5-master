@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>531.tif</filename>
+	<path>D:\xianweijing\样本\image\531.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>23</ymin>
+			<xmax>726</xmax>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>597</ymin>
+			<xmax>1050</xmax>
+			<ymax>947</ymax>
+		</bndbox>
+	</object>
+</annotation>

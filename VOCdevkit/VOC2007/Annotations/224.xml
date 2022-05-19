@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>224.tif</filename>
+	<path>D:\xianweijing\样本\image\224.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1371</xmin>
+			<ymin>1317</ymin>
+			<xmax>1892</xmax>
+			<ymax>1890</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>963</xmin>
+			<ymin>345</ymin>
+			<xmax>1521</xmax>
+			<ymax>759</ymax>
+		</bndbox>
+	</object>
+</annotation>

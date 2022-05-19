@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1968.tif</filename>
+	<path>D:\xianweijing\样本\image\1968.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1417</xmin>
+			<ymin>917</ymin>
+			<xmax>1978</xmax>
+			<ymax>1591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1604</xmin>
+			<ymin>496</ymin>
+			<xmax>2366</xmax>
+			<ymax>1198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>645</ymin>
+			<xmax>1531</xmax>
+			<ymax>1303</ymax>
+		</bndbox>
+	</object>
+</annotation>

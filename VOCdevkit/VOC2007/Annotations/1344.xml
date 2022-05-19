@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1344.tif</filename>
+	<path>D:\xianweijing\样本\image\1344.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vessels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>543</xmin>
+			<ymin>855</ymin>
+			<xmax>1785</xmax>
+			<ymax>1638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2182</xmin>
+			<ymin>1180</ymin>
+			<xmax>2590</xmax>
+			<ymax>1783</ymax>
+		</bndbox>
+	</object>
+</annotation>

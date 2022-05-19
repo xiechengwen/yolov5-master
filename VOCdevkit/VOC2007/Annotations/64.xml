@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>64.jpg</filename>
+	<path>D:\xianweijing\样本\image\64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>353</ymin>
+			<xmax>1118</xmax>
+			<ymax>1519</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1118</xmin>
+			<ymin>65</ymin>
+			<xmax>2514</xmax>
+			<ymax>1745</ymax>
+		</bndbox>
+	</object>
+</annotation>

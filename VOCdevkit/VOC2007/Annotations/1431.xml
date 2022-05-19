@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1431.tif</filename>
+	<path>D:\xianweijing\样本\image\1431.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>112</ymin>
+			<xmax>2185</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>117</ymin>
+			<xmax>310</xmax>
+			<ymax>1562</ymax>
+		</bndbox>
+	</object>
+</annotation>

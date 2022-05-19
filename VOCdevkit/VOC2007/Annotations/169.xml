@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>169.tif</filename>
+	<path>D:\xianweijing\样本\image\169.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>159</ymin>
+			<xmax>1420</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>785</ymin>
+			<xmax>2592</xmax>
+			<ymax>1927</ymax>
+		</bndbox>
+	</object>
+</annotation>

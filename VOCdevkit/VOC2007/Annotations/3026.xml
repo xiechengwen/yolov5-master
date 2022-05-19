@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06</folder>
+	<filename>3026.tif</filename>
+	<path>E:\ZNXWJ\样本\2022\01\06\3026.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>48</ymin>
+			<xmax>2592</xmax>
+			<ymax>1917</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>247</xmin>
+			<ymin>334</ymin>
+			<xmax>964</xmax>
+			<ymax>944</ymax>
+		</bndbox>
+	</object>
+</annotation>

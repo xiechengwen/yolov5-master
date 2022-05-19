@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1397.tif</filename>
+	<path>D:\xianweijing\样本\image\1397.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>69</ymin>
+			<xmax>1838</xmax>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>580</xmin>
+			<ymin>529</ymin>
+			<xmax>1566</xmax>
+			<ymax>1094</ymax>
+		</bndbox>
+	</object>
+</annotation>

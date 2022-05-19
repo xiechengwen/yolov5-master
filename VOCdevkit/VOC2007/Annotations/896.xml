@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>896.tif</filename>
+	<path>D:\xianweijing\样本\image\896.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>391</ymin>
+			<xmax>2318</xmax>
+			<ymax>1425</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1730</xmin>
+			<ymin>1162</ymin>
+			<xmax>2505</xmax>
+			<ymax>1936</ymax>
+		</bndbox>
+	</object>
+</annotation>

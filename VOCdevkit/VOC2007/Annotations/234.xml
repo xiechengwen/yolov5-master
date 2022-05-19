@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>234.tif</filename>
+	<path>D:\xianweijing\样本\image\234.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phloem fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>142</ymin>
+			<xmax>2337</xmax>
+			<ymax>900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>683</ymin>
+			<xmax>2527</xmax>
+			<ymax>1907</ymax>
+		</bndbox>
+	</object>
+</annotation>

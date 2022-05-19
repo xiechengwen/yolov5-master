@@ -1,0 +1,26 @@
+<annotation>
+	<folder>image</folder>
+	<filename>262.tif</filename>
+	<path>D:\xianweijing\样本\image\262.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>859</xmin>
+			<ymin>854</ymin>
+			<xmax>2166</xmax>
+			<ymax>1736</ymax>
+		</bndbox>
+	</object>
+</annotation>

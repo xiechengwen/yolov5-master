@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>1652.tif</filename>
+	<path>D:\xianweijing\样本\image\1652.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>822</xmin>
+			<ymin>462</ymin>
+			<xmax>1873</xmax>
+			<ymax>1043</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>211</xmin>
+			<ymin>310</ymin>
+			<xmax>2190</xmax>
+			<ymax>1769</ymax>
+		</bndbox>
+	</object>
+</annotation>

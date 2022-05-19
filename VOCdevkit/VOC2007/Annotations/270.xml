@@ -1,0 +1,50 @@
+<annotation>
+	<folder>image</folder>
+	<filename>270.tif</filename>
+	<path>D:\xianweijing\样本\image\270.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1633</xmin>
+			<ymin>403</ymin>
+			<xmax>2081</xmax>
+			<ymax>1301</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1520</xmin>
+			<ymin>1467</ymin>
+			<xmax>2404</xmax>
+			<ymax>1878</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Starch granules</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>86</ymin>
+			<xmax>930</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>

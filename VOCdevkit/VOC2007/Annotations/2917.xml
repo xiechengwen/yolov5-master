@@ -1,0 +1,26 @@
+<annotation>
+	<folder>06</folder>
+	<filename>2917.tif</filename>
+	<path>E:\ZNXWJ\样本\2022\01\06\2917.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>70</xmin>
+			<ymin>409</ymin>
+			<xmax>2278</xmax>
+			<ymax>1292</ymax>
+		</bndbox>
+	</object>
+</annotation>

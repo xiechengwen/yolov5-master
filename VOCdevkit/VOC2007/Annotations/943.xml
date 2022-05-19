@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>943.tif</filename>
+	<path>D:\xianweijing\样本\image\943.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Vessels</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>694</xmin>
+			<ymin>330</ymin>
+			<xmax>1159</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>407</ymin>
+			<xmax>1720</xmax>
+			<ymax>1706</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>image</folder>
+	<filename>2191.tif</filename>
+	<path>D:\xianweijing\样本\image\2191.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>578</xmin>
+			<ymin>34</ymin>
+			<xmax>2094</xmax>
+			<ymax>1694</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Stone cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>406</xmin>
+			<ymin>1196</ymin>
+			<xmax>1136</xmax>
+			<ymax>1891</ymax>
+		</bndbox>
+	</object>
+</annotation>

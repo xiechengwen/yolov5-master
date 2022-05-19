@@ -1,0 +1,38 @@
+<annotation>
+	<folder>06</folder>
+	<filename>3047.tif</filename>
+	<path>E:\ZNXWJ\样本\2022\01\06\3047.tif</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2592</width>
+		<height>1944</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cork cells</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>655</xmin>
+			<ymin>484</ymin>
+			<xmax>2253</xmax>
+			<ymax>1915</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Xylary fibres</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>9</ymin>
+			<xmax>1864</xmax>
+			<ymax>750</ymax>
+		</bndbox>
+	</object>
+</annotation>
